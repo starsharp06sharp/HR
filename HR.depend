@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1430186433 source:D:\RunTimeError\hr\main.cpp
+	<iostream>
+	"Employee.h"
+	"Sales.h"
+
+1430186767 D:\RunTimeError\hr\include\employee.h
+	<string>
+
+1430186766 D:\RunTimeError\hr\include\sales.h
+	"Employee.h"
+
+1430186504 source:D:\RunTimeError\hr\src\employee.cpp
+	"Employee.h"
+
+1430399362 source:d:\runtimeerror\hr\main.cpp
+	<iostream>
+	"Employee.h"
+	"Sales.h"
+
+1430399372 d:\runtimeerror\hr\include\employee.h
+	<string>
+
+1430186768 d:\runtimeerror\hr\include\sales.h
+	"Employee.h"
+
+1430186506 source:d:\runtimeerror\hr\src\employee.cpp
+	"Employee.h"
+
+1430186930 source:d:\runtimeerror\hr\src\sales.cpp
+	"Sales.h"
+
