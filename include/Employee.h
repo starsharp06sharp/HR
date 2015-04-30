@@ -9,7 +9,7 @@ class Employee {
 public:
     Employee(string name);
     Employee(string name, int salary ,int level);
-    int calcSalary();
+    virtual int calcSalary();
     string getName();
     int getLevel();
     void setSalary(int newSalary);
